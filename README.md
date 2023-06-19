@@ -14,9 +14,12 @@ Data Analysis for the multiple datasets using PowerBI
 
 ![sales](https://github.com/AvantiBuche/Data_Analysis/blob/c63cb604eb30a71ccd9891afc1b45cbc6f6faa87/sales.JPG)
 
+###
+
 ## 2. Data Science Salaries
 
 <div>Data Science Job Salaries Dataset contains 11 columns, each are:</div>
+<div>Kaggle: https://www.kaggle.com/datasets/arnabchaki/data-science-salaries-2023/versions/1</div>
 
 ### File desc
 <div>work_year: The year the salary was paid</div>
@@ -33,6 +36,18 @@ Data Analysis for the multiple datasets using PowerBI
 
 ![image](https://github.com/AvantiBuche/Data_Analysis/assets/127451991/b778683a-a1fc-4f29-b943-a9e57db28b0a)
 
+###
+
+## 3. Customer Shopping Dataset - Retail Sales Data
+
+<div>Dataset contains shopping information from 10 different shopping malls between 2021 and 2023.</div>
+<div>The dataset includes essential information such as invoice numbers, customer IDs, age, gender, payment methods, product categories, quantity, price, order dates, and shopping mall locations.</div>
+<div>Kaggle: https://www.kaggle.com/datasets/mehmettahiraslan/customer-shopping-dataset</div>
+
+![s1](https://github.com/AvantiBuche/Data_Analysis/assets/127451991/52a34905-a016-441e-a449-1177f631f202)
 
 
-## 3. 
+![s2](https://github.com/AvantiBuche/Data_Analysis/assets/127451991/e817d5ca-c842-4d94-bfae-c0f80d738a47)
+
+###
+
