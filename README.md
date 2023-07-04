@@ -1,9 +1,9 @@
-# Data_Analysis
+# Data_Visualization
 
-Data Analysis for the multiple datasets using PowerBI
+Data Visualization and Analysis for multiple datasets using PowerBI
 
 ## 1. Retail Sales Data
-<div>This data is collected from a Turkish retail company. Time period is beginning from 2017 to the end of 2019.</div>
+<div>This data is collected from a Turkish retail company. The time period is beginning from 2017 to the end of 2019.</div>
 <div>Kaggle- https://www.kaggle.com/datasets/berkayalan/retail-sales-data </div>
 
 ### File desc
@@ -18,7 +18,7 @@ Data Analysis for the multiple datasets using PowerBI
 
 ## 2. Data Science Salaries
 
-<div>Data Science Job Salaries Dataset contains 11 columns, each are:</div>
+<div>Data Science Job Salaries Dataset contains 11 columns, each is:</div>
 <div>Kaggle: https://www.kaggle.com/datasets/arnabchaki/data-science-salaries-2023/versions/1</div>
 
 ### File desc
